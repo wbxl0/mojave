@@ -1,0 +1,9 @@
+{
+  "kind": "service",
+  "runtime": "python",
+  "python": "3.14",
+  "start": "python app.py",
+  "port": 3000,
+  "vcpus": 1,
+  "memMiB": 256
+}

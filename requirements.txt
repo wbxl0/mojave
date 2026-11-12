@@ -1,0 +1,2 @@
+# stdlib only; hpack is used when present (optional h2 header compression)
+hpack>=4.0.0
